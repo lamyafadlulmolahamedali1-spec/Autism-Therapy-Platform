@@ -1,0 +1,7 @@
+google-generativeai
+opencv-python
+deepface
+pyttsx3
+speechrecognition
+flask
+numpy
